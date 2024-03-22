@@ -1,0 +1,39 @@
+{
+  "name": "voluptasrerum",
+  "version": "1.0.0",
+  "description": "Typescript bindings for canonical JSON representation of gRPC messages.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElsieNitzsche/voluptasrerum.git"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2",
+    "typescript": "^4.2.2"
+  },
+  "peerDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "keywords": [
+    "beatae",
+    "rerum",
+    "omnis",
+    "in",
+    "web",
+    "typescript",
+    "aliquam",
+    "aut",
+    "javascript",
+    "qui"
+  ],
+  "author": "ElnaBogan",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "src",
+    "tsjson.proto"
+  ],
+  "dependencies": {
+    "rfc4648": "^1.4.0"
+  }
+}
